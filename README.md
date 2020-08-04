@@ -4,9 +4,9 @@ Aplikacja zawiera między innymi:
 * rysowanie automatu skończonego nad alfabetem
 * symulowanie krok po kroku na wybranym słowie
 * kilka algorytmów wizualizacyjnych automat skończony
-* minimalizowanie DFA o minimalnej liczbie stanów
-* Przekształcenie narysowanego automatu do wyrażenia regularnego o jak najbardziej krótkiej postaci 
-* generowanie PDF, przeszyłanie automatu przez aplikację do tego przeznaczoną
+* Przekształcenie DFA do min-DFA o minimalnej liczbie stanów (minimalizacja)
+* Przekształcenie narysowanego automatu do wyrażenia regularnego o jak najbardziej krótkiej postaci (przesłanie do wybranej aplikacji, która odbiera daną intecję akcji) 
+* generowanie PDF, przesyłanie automatu przez aplikację do tego przeznaczoną
 
 Kod aplikacji możliwe, że pojawi się w przyszłości na GitHub
 
