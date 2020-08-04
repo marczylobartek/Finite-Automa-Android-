@@ -18,7 +18,7 @@ Kod aplikacji możliwe, że pojawi się w przyszłości na GitHub
 
 ![Image of Yaktocat](https://i.imgur.com/StIESR9.png)
 
-![Image of Yaktocat](https://i.imgur.com/e0f8hD3.png
+![Image of Yaktocat](https://i.imgur.com/e0f8hD3.png)
 
 ![Image of Yaktocat](https://i.imgur.com/KSQwIfR.png)
 
